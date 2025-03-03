@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Meu nome é Ricardo Araújo e sou um estudante de programação e entusiasta em tecnologia, estou sempre buscando aprender sobre novos assuntos.</p>
+<p align="left">Olá! Meu nome é Ricardo Araújo, sou um estudante de programação e entusiasta em tecnologia, estou sempre buscando aprender sobre novos assuntos.</p>
 
 ###
 
