@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rickzx7/Rickzx7/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
